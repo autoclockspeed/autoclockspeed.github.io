@@ -1,0 +1,6 @@
+# Config
+name: Auto Clock Speed
+description: Website for Auto Clock Speed
+url: "https://autoclockspeed.github.io"
+markdown: kramdown
+highlighter: rouge
